@@ -1,5 +1,5 @@
 {
-    "name": "willpickard/OMDB",
+    "name": "willpickard/omdb",
     "description": "OMDB API Wrapper for Laravel 5",
     "license": "MIT",
     "type": "API",
