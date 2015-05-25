@@ -1,6 +1,6 @@
 {
     "name": "willpickard/OMDB",
-    "description": "OMDB API Wrapper for Laravel 5,
+    "description": "OMDB API Wrapper for Laravel 5",
     "license": "MIT",
     "type": "API",
     "keywords": [
